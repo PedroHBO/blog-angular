@@ -1,14 +1,26 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "Projeto POKEDEX",
+    "description": "https://github.com/PedroHBO/PokeDex",
+    "photoCover":"https://private-user-images.githubusercontent.com/66649954/300453142-16f09c95-d7d7-4ed1-8877-375aadbc1470.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5OTYxMzUsIm5iZiI6MTcwODk5NTgzNSwicGF0aCI6Ii82NjY0OTk1NC8zMDA0NTMxNDItMTZmMDljOTUtZDdkNy00ZWQxLTg4NzctMzc1YWFkYmMxNDcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI3VDAxMDM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiMTUzMDIwMzMyNzk0ZDhmMTQ0NDgzZDYwMTQ4MDM3NTFmZjZkZDRmMDMzODRmYTFmMGE3ZmJhZjZhZDJmNTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8uZ9socU4Zz9RfKgrDHDRbvNjuNxagaFUlbYLKGRBWQ"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Projeto NETFLIX",
+    "description": "https://github.com/PedroHBO/Netflix",
+    "photoCover":"https://user-images.githubusercontent.com/66649954/119437110-d7e33a80-bcf3-11eb-92ed-0a894931aae2.png"
+  },
+  {
+    "id":"3",
+    "title": "Projeto TIC-TAC-TOE",
+    "description": "https://github.com/PedroHBO/Tic-Tac-Toe",
+    "photoCover":"https://user-images.githubusercontent.com/66649954/165007318-7a2d283c-83e7-46ee-bf94-65fe25c9b652.png"
+  },
+  {
+    "id":"4",
+    "title": "Projeto DINO-GAME",
+    "description": "https://github.com/PedroHBO/Dino-Chrome-Game",
+    "photoCover":"https://user-images.githubusercontent.com/66649954/119437110-d7e33a80-bcf3-11eb-92ed-0a894931aae2.png"
   }
 ]
